@@ -1,8 +1,8 @@
 **1. Implement the function ruler() which takes a number (for example, 43) as argument, and produces output as shown below.**
 <br>
-```         1         2         3         4```
+         1         2         3         4
 <br>
-```1234567890123456789012345678901234567890123```
+1234567890123456789012345678901234567890123
 <br>
 (note: 1st row values are aligned to respective 0s of the 2nd row)
 <br>
